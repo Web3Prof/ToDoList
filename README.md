@@ -1,5 +1,5 @@
 # Group ToDo List
-A beginner level smart contract assignment
+A beginner level smart contract assignment for a simple group to-do list.
 
 # Description
 Each ToDo will have:
