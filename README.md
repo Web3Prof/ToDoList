@@ -13,7 +13,7 @@ Each ToDo will have:
 - Status <br>
   to indicate complete/incompleted, initially the status should be incompleted
 
-<b>Only addresses that are part of the group (the group leader/assigner and those who are assigned a task can view the ToDo List.<b>
+<b>Only addresses that are part of the group (the group leader/assigner and those who are assigned a task can view the ToDo List.</b>
 
 Challenge:
 - Add deadline date to the ToDo property (Clue: Unix Timestamp)
